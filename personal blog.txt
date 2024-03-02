@@ -69,26 +69,40 @@
     <section>
         <h2>Introduction</h2>
         <article>
-            <p>Iam VENGABABU</p>
-            <p>Iam intrested to develope an software Application using Artificial Intelligence And Machine Learning  </p>
-            <p>So I choosen AIML as specilaization</p>
+            <p>I am VengaBabu</p>
+            <p>I am intrested to develop an software Application using Artificial Intelligence And Machine Learning  </p>
+            <p>So I have choosen AIML as specilaization</p>
             <p>Iam pursing Bachelor's Degree in Malla reddy college of Engineering And Technology</p>
             <p>And I want to start My career in AIML Domain</p>
         </article>
-        <article>
-            <h3>My Passion</h3>
-            <p>My passion Towards About to start My own Business</p>
+     <article>
+        <h4>Education qualifications</h4>
+        
+            <li>B.tech with 80 percentage</li>
+            <li>intermediate  with 90 percentage </li>
+            <li> 10th with 96 percentage</li>
+         <article>
+        <h4>Skills</h4>
+         <li>PYTHON</li>
+            <li>JAVA </li>
+            <li> PHP</li>
+        </ARTICLE>
         </article>
-        <article>
-            <h3>HOBBIES</h3>
+      <article>
+            <h4>HOBBIES</h4>
             <ul>
                 <li>Travelling</li>
                 <li>Listeninig Music</li>
                 <li>Watching Movies</li>
             </ul>
         </article>
-        </section>
-    </section>
+                <article>
+            <h3>My Passion</h3>
+            <li>My passion Towards About to start My own Business</li>
+        </article>
+    
+  
+      </article
     <footer>
         &copy; 2024 My Personal Blog<br>
          Find me in  <a href="https://www.instagram.com/vengalchowdary_?igsh=MWYxc2g3eTFkcG9udg=="><h1 style="color: pink;">Instagram</h1></a>
