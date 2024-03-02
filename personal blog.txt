@@ -69,11 +69,11 @@
     <section>
         <h2>Introduction</h2>
         <article>
-            <p>I am VengaBabu</p>
-            <p>I am intrested to develop an software Application using Artificial Intelligence And Machine Learning  </p>
-            <p>So I have choosen AIML as specilaization</p>
-            <p>Iam pursing Bachelor's Degree in Malla reddy college of Engineering And Technology</p>
-            <p>And I want to start My career in AIML Domain</p>
+            <li>I am VengaBabu</li>
+            <li>I am intrested to develop an software Application using Artificial Intelligence And Machine Learning  </li>
+            <li>So I have choosen AIML as specilaization</li>
+            <li>Iam pursing Bachelor's Degree in Malla reddy college of Engineering And Technology</li>
+            <li>And I want to start My career in AIML Domain</li>
         </article>
      <article>
         <h4>Education qualifications</h4>
